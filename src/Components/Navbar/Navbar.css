@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: aliceblue; */
+}
+.navbar-brand h4{
+    color: darkorange;
+}
+
+#navbarSupportedContent{
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+.book-btn {
+    /* width: 35px; */
+    font-size: small;
+    border-radius: 30px;
+    margin-right: 40px;
+    width: 120px;
+    height: 42px;
+    font-weight: bold;
+    background-color: white;
+    border-color: darkorange;
+
+}
+.book-btn:hover,.book-btn:active
+{
+    background-color: darkorange;
+}

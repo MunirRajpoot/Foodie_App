@@ -1,0 +1,47 @@
+.work{
+    margin-top: 230px;
+    height: 200%;
+}
+.work-head{
+    font-weight: bold;
+    color: rgb(106, 106, 106);
+    text-align: center;
+}
+.work-para{
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(106, 106, 106);
+    /* width: 400px; */
+    margin: 5px 50px;
+}
+.c-img1{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+.card-text{
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(106, 106, 106);
+    margin-top: 25px;
+}
+.card-sec{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 120px;
+
+    align-items: center;
+
+}
+.card{
+    background-color: rgb(246, 244, 244);
+    border-radius: 5px;
+    border: none;
+}

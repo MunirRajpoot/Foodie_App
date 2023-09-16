@@ -1,0 +1,31 @@
+.img-home{
+    width: 30rem;
+    margin-left: 50px;
+}
+.text-area{
+    width: 25rem;
+    margin-top: 55px;
+    font-size: 20px;
+    
+}
+.para{
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(106, 106, 106);
+}
+.text-area h1{
+    font-weight: bold;
+    color: rgb(106, 106, 106);
+}
+.order{
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 35px;
+    height: 40px;
+    background-color: darkorange;
+    border: none;
+    color: white;
+}
